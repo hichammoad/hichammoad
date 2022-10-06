@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced ML using Python**
 
-- 💬 Ask me about **R, Java, Machine Learning, Cybersecurity**
+- 💬 Ask me about **R, R Shiny, Java, Machine Learning, Cybersecurity**
 
 - 📫 How to reach me **h.m.safhi@gmail.com**
 
